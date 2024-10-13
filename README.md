@@ -35,7 +35,7 @@ pip install requrements.txt
 
 ### Используемые технологии
   * **Selenium** для парсинга сайтов :zap:
-  * **GigaChat** и ChatGPT как LLM :robot:
+  * **GigaChat** и **ChatGPT** как LLM :robot:
   * **Pandas**, **numpy**, **matplotlib**... для анализа данных :bar_chart:
 
 
