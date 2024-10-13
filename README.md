@@ -49,7 +49,7 @@ pip install requrements.txt
 |---|---|
 |[LLM_checked_df.csv](LLM_checked_df.csv)|Размеченный LLM датасет|
 |[itog_data_from_pars.csv](itog_data_from_pars.csv)|Итоговые данные после парсинга|
-|[parser.py](parser.py)|Сам паррсер|
+|[parser.py](parser.py)|Сам парсер|
 |[Итоговый_ноутбук.ipynb](Итоговый_ноутбук.ipynb)|Ноутбук с разметкой и анализом данных|
 |train_dataset_train ржд каталог.zip|Архив с начальными данными|
 |user-agents.txt|User-agents для парсинга|
