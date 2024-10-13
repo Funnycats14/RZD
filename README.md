@@ -12,7 +12,7 @@ pip install requrements.txt
 - Справочник товаров
   - ED_IZM - дополнительный датасет
   - GOST -  дополнительный датасет
-  - **MTR - содержит данные, которые нужно преобразовать
+  - **MTR - содержит данные, которые нужно преобразовать**
   - OKPD_2 -  дополнительный датасет
 - Сайты для парсинга
 - Тех. описание задачи в readme
@@ -47,10 +47,10 @@ pip install requrements.txt
 ### Файлы проекта
 | Имя файла | Описание |
 |---|---|
-|[LLM_checked_df.csv](LLM_checked_df.csv)|Описание|
+|[LLM_checked_df.csv](LLM_checked_df.csv)|Размеченный LLM датасет|
 |[itog_data_from_pars.csv](itog_data_from_pars.csv)|Итоговые данные после парсинга|
 |[parser.py](parser.py)|Сам паррсер|
-|[Итоговый_ноутбук.ipynb](Итоговый_ноутбук.ipynb)|Описание|
-|train_dataset_train ржд каталог.zip|Описание|
+|[Итоговый_ноутбук.ipynb](Итоговый_ноутбук.ipynb)|Ноутбук с разметкой и анализом данных|
+|train_dataset_train ржд каталог.zip|Архив с начальными данными|
 |user-agents.txt|User-agents для парсинга|
 |requirements.txt|Файл с зависимостями|
